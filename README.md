@@ -79,7 +79,12 @@ Este repositório contém a solução de vários exercícios em JavaScript, com 
   - Usar um loop `for` reverso para exibir cada palavra no console.
 
 ### Descrição:
-Este script lê um array de palavras e exibe cada palavra no console em ordem reversa.
+/**
+ * Exibe as palavras de um array em ordem reversa.
+ * Este script recebe um array de palavras e usa um loop for reverso para exibir cada palavra no console.
+ *
+ * @param {string[]} palavras - O array contendo as palavras a serem exibidas.
+ */
 
 ### Explicação:
 - **Array `palavras`**: Contém as palavras que serão exibidas.
