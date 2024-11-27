@@ -36,7 +36,10 @@ Este repositório contém a solução de vários exercícios em JavaScript, com 
   - Exibir o número total de itens no estoque usando `.length`.
 
 ### Descrição:
-Este script gerencia um estoque de itens. Ele cria um array `estoque` com 4 itens, atualiza o segundo item e exibe o número total de itens no estoque.
+/**
+ * Gerencia um estoque de itens.
+ * Este script cria um estoque com 4 itens iniciais, atualiza o segundo item e exibe o total de itens no estoque.
+*/
 
 ### Explicação:
 - **Array `estoque`**: Inicializa o estoque com 4 itens.
