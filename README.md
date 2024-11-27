@@ -101,7 +101,14 @@ Este repositório contém a solução de vários exercícios em JavaScript, com 
   - Exibir mensagens para respostas corretas e para o comando "sair".
 
 ### Descrição:
-Este script pede ao usuário para adivinhar um número entre 1 e 10, continuando até que o usuário acerte ou digite "sair".
+/**
+ * Jogo de adivinhação de número.
+ * Este script pede ao usuário para adivinhar um número entre 1 e 10. O loop continua até que o usuário acerte o número ou digite "sair".
+ * 
+ * O número aleatório gerado será um valor entre 1 e 10.
+ * 
+ * @returns {void} Não retorna nada, apenas exibe mensagens para o usuário.
+ */
 
 ### Explicação:
 - **Geração do número aleatório**: O número correto é gerado aleatoriamente entre 1 e 10.
