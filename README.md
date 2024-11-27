@@ -14,7 +14,10 @@ Este repositório contém a solução de vários exercícios em JavaScript, com 
   - Exibir o array final no console.
 
 ### Descrição:
-Este script gerencia uma lista de tarefas. Ele cria um array vazio chamado `tarefas`, adiciona três tarefas, remove a última tarefa e exibe a lista final.
+/**
+ * Gerencia uma lista de tarefas.
+ * Este script cria uma lista de tarefas, adiciona três tarefas, remove a última e exibe a lista final no console.
+ */
 
 ### Explicação:
 - **Array `tarefas`**: Um array vazio é criado para armazenar as tarefas.
