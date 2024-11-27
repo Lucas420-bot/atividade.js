@@ -57,7 +57,11 @@ Este repositório contém a solução de vários exercícios em JavaScript, com 
   - Exibir o nome de cada aluno e sua respectiva média.
 
 ### Descrição:
-Este script armazena as notas de três alunos em um array aninhado e calcula a média das notas de cada aluno utilizando um loop aninhado.
+/**
+ * Calcula a média das notas de cada aluno e exibe o nome e a média.
+ * Este script cria um array de alunos onde cada aluno tem um array com suas notas.
+ * Um loop aninhado é usado para calcular a média de cada aluno e exibir as informações.
+ */
 
 ### Explicação:
 - **Array `alunos`**: Contém objetos, cada um representando um aluno com seu nome e suas notas.
